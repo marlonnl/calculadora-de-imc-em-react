@@ -10,7 +10,7 @@ function App() {
         <Calculadora />
 
         <footer className="footer">
-          desenvolvido por <a href="https://github.com/marlonnl">marlonn</a>
+          desenvolvido por <a href="https://github.com/marlonnl" target="_blank">marlonn</a>
           </footer>
       </div>
     </>
